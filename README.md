@@ -8,21 +8,26 @@ Using a pre-trained BERT transformer model, this study analyzes warmth and compe
 The work addresses context-dependent biases that can affect AI-driven decision-making, particularly in recruitment processes such as candidate shortlisting and screening. The code was developed as part of a Master’s Thesis in Data Science and the study has been accepted for publication.
 
 ## Technologies
-Python 3.6
+- Python 3.6
 
-Transformers (BERT)
+- Transformers (BERT)
 
-NumPy, Pandas, Scikit-learn
+- NumPy, Pandas, Scikit-learn
 
-PyTorch/TensorFlow
+- PyTorch/TensorFlow
 
 
 ## Repository Structure 
-data/
-Contains all datasets required to run the code, including .csv and .xlsx files used in the analysis.
+**data/**  
+- Contains all datasets required to run the code  
+- Includes `.csv` and `.xlsx` files used in the analysis  
 
-src/
-Contains the code used to generate the experimental results. This includes modified model files to ensure reproducibility (with relative paths) and profession mapping scripts, as well as exploratory data analysis performed using **NumPY** and **Pandas** on the O*NET data source.
+**src/**  
+- Code used to generate experimental results  
+- Modified model files to ensure reproducibility (relative paths)  
+- Profession mapping scripts  
+- Exploratory data analysis using NumPy and Pandas on the O*NET data source  
+
 
 ## Results & Conclusion
 The results show that SCM-guided projection effectively reduces profession-related stereotype bias in BERT embeddings while preserving semantic meaning.
