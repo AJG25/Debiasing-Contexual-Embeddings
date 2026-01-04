@@ -1,4 +1,4 @@
-# Debiasing-Contexual-Embeddings
+# Debiasing Contexual Embeddings
 ## Project Overview
 
 This project investigates how the Stereotype Content Model (SCM), specifically the dimensions of warmth and competence can be applied to Masked Language Modeling (MLM) for detecting and mitigating bias in profession-related text.
