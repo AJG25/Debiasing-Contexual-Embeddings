@@ -5,7 +5,7 @@ This project investigates how the Stereotype Content Model (SCM), specifically t
 
 Using a pre-trained BERT transformer model, this study analyzes warmth and competence bias in contextualized word embeddings, evaluates the effectiveness of a projection-based debiasing approach, and assesses the extent to which semantic meaning is preserved after debiasing.
 
-The work addresses context-dependent biases that can affect AI-driven decision-making, particularly in recruitment processes such as candidate shortlisting and screening. The code was developed as part of a Master’s Thesis in Data Science and the study has been accepted for publication.
+The work addresses context-dependent biases that can affect AI-driven decision-making, particularly in recruitment processes such as candidate shortlisting and screening. The code was developed as part of a Master’s Thesis in Data Science and **the study has been accepted for publication**.
 
 ## Technologies
 - Python 3.6
