@@ -8,7 +8,7 @@ Using a pre-trained BERT transformer model, this study analyzes warmth and compe
 The work addresses context-dependent biases that can affect AI-driven decision-making, particularly in recruitment processes such as candidate shortlisting and screening. The code was developed as part of a Master’s Thesis in Data Science and **the study has been accepted for publication**.
 
 ## Technologies
-- Python 3.6
+- Python
 
 - Transformers (BERT)
 
